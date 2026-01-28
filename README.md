@@ -13,7 +13,7 @@ main-branch
 W01_(Capina).html
 
 ## Challenges Encountered
-Narrate all the challenges you've encountered during development
+At first I don't know HTML, and then I asked Vince since he's a graduate of SHS here in STI San Pablo, and then after asking some basic tutorials, I tried to do it on my own with searching on W3schools website, and then I figured it out now.
 
 ## Key Takeaways
-List down your valuable learnings from doing this task.
+I got to know the basics of HTML with Vince and W3Schools Website.
