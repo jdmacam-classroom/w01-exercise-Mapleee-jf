@@ -10,12 +10,7 @@ Put here the description and general instructions of the exercise.
 ## Files Structure
 ```
 main-branch 
-|_ folder1 
-  |_ project.py
-  |_ code.py
-|_ folder2
-  |_ report.pdf 
-```
+W01_(Capina).html
 
 ## Challenges Encountered
 Narrate all the challenges you've encountered during development
